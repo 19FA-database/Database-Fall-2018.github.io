@@ -16,5 +16,5 @@ File storage structures, relational database management systems, entity relation
 The amount of data in the world is increasing rapidly.  This course explores how data is efficiently managed and accessed using database management systems.
 
 
-##Prerequisite
+## Prerequisite
 Prior or concurrent registration in Introduction to Computer Science
